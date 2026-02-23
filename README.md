@@ -49,12 +49,11 @@
 
 ---
 
-```
-$ uptime
-> building since mass age of 15 and mass shipping since Aug 2022
-```
-
 <div align="center">
+
+<img src="assets/terminal-footer.svg" alt="Uptime" width="100%"/>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tanayshah11&style=flat-square&color=0d1117)
 
