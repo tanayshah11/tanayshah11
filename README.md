@@ -36,15 +36,6 @@
 <div align="center">
 
 <a href="https://github.com/tanayshah11">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanayshah11&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/tanayshah11">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshah11&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=86400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/tanayshah11">
   <img src="https://streak-stats.demolab.com/?user=tanayshah11&theme=tokyonight&hide_border=true&background=00000000" />
 </a>
 
