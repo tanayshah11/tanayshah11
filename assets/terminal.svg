@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 420" width="100%">
+  <!-- Window frame -->
+  <rect x="0" y="0" width="840" height="420" rx="10" ry="10" fill="#0d1117"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="840" height="36" rx="10" ry="10" fill="#161b22"/>
+  <rect x="0" y="20" width="840" height="16" fill="#161b22"/>
+  <!-- Traffic light dots -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+  <!-- Title text -->
+  <text x="420" y="23" fill="#8b949e" font-family="'Courier New', Courier, monospace" font-size="13" text-anchor="middle">tanay@github:~</text>
+  <!-- Terminal content -->
+  <text font-family="'Courier New', Courier, monospace" font-size="14">
+    <!-- $ whoami -->
+    <tspan x="20" y="65" fill="#39d353">$ </tspan><tspan fill="#e6edf3">whoami</tspan>
+    <!-- > Tanay Shah -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">Tanay Shah</tspan>
+
+    <!-- blank line + $ cat /etc/profile -->
+    <tspan x="20" dy="40" fill="#39d353">$ </tspan><tspan fill="#e6edf3">cat /etc/profile</tspan>
+    <!-- > CS @ UMD '25 | Systems & ML Engineer -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">CS @ UMD '25 | Systems &amp; ML Engineer</tspan>
+    <!-- > I build things that shouldn't work but do. -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">I build things that shouldn't work but do.</tspan>
+    <!-- > Currently: shipping distributed systems, -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">Currently: shipping distributed systems,</tspan>
+    <!--   AI agents, and whatever sounds impossible -->
+    <tspan x="20" dy="20" fill="#e6edf3">  AI agents, and whatever sounds impossible</tspan>
+    <!--   before coffee. -->
+    <tspan x="20" dy="20" fill="#e6edf3">  before coffee.</tspan>
+
+    <!-- blank line + $ whereis tanay -->
+    <tspan x="20" dy="40" fill="#39d353">$ </tspan><tspan fill="#e6edf3">whereis tanay</tspan>
+    <!-- > San Francisco, CA ↔ Washington, D.C. -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">San Francisco, CA &#x2194; Washington, D.C.</tspan>
+
+    <!-- blank line + $ curl -s tanay.dev/links -->
+    <tspan x="20" dy="40" fill="#39d353">$ </tspan><tspan fill="#e6edf3">curl -s tanay.dev/links</tspan>
+    <!-- > linkedin.com/in/tanayshah11 -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">linkedin.com/in/tanayshah11</tspan>
+    <!-- > github.com/tanayshah11 -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">github.com/tanayshah11</tspan>
+    <!-- > tanayshah2024@gmail.com -->
+    <tspan x="20" dy="20" fill="#8b949e">&gt; </tspan><tspan fill="#e6edf3">tanayshah2024@gmail.com</tspan>
+  </text>
+</svg>

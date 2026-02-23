@@ -5,15 +5,15 @@ from pathlib import Path
 import numpy as np
 
 # Grid configuration
-COLS = 80           # cells wide
-ROWS = 20           # cells tall
-CELL_SIZE = 12      # pixels per cell
-GENERATIONS = 40    # number of frames
-FRAME_DUR = 0.15    # seconds per frame
+COLS = 120          # cells wide
+ROWS = 12           # cells tall
+CELL_SIZE = 8       # pixels per cell — smaller = subtler
+GENERATIONS = 25    # fewer frames = calmer
+FRAME_DUR = 0.3     # slower animation
 
 # Colors
 BG_COLOR = "#0d1117"
-CELL_COLOR = "#39d353"  # GitHub green
+CELL_COLOR = "#238636"  # muted GitHub green (dimmer)
 
 WIDTH = COLS * CELL_SIZE
 HEIGHT = ROWS * CELL_SIZE
@@ -23,8 +23,8 @@ OUTPUT_PATH = SCRIPT_DIR.parent / "assets" / "game-of-life.svg"
 
 
 def random_grid(rng):
-    """Generate a random initial grid with ~30% density."""
-    return rng.choice([0, 1], size=(ROWS, COLS), p=[0.7, 0.3])
+    """Generate a random initial grid with ~10% density."""
+    return rng.choice([0, 1], size=(ROWS, COLS), p=[0.9, 0.1])
 
 
 def step(grid):
@@ -110,7 +110,7 @@ def frames_to_svg(frames):
             lines.append(
                 f'  <rect class="p{pi}" x="{x}" y="{y}" '
                 f'width="{CELL_SIZE - 1}" height="{CELL_SIZE - 1}" '
-                f'rx="2" fill="{CELL_COLOR}"/>'
+                f'rx="2" fill="{CELL_COLOR}" opacity="0.7"/>'
             )
 
     lines.append("</svg>")
