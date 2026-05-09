@@ -12,6 +12,32 @@
 
 ---
 
+<h3><code>// field report</code></h3>
+
+<div align="center">
+
+**[tanayshah.dev →](https://tanayshah.dev/)**
+
+<sub>AI engineer in NYC · founding-engineer reps · agent infrastructure · sandboxed runtimes · MCP · iOS · ZDR-grade</sub>
+
+</div>
+
+---
+
+<h3><code>// reading list</code></h3>
+
+<div align="center">
+
+📝 [What the Bubblewrap Sandbox Escape Tells Us About Agent Runtime Hardening in 2026](https://tanayshah.dev/blog/agent-sandbox-runtime-hardening/)<br/>
+📝 [Picking MCP Servers for an Agent — A Selection Heuristic for 2026](https://tanayshah.dev/blog/picking-mcp-servers-for-agents/)<br/>
+📝 [Designing Tool Surfaces for LLM Agents](https://tanayshah.dev/blog/designing-tool-surfaces-for-llm-agents/)<br/>
+📝 [Multi-Vendor Agent Design — Why One Model Isn't Enough in 2026](https://tanayshah.dev/blog/multi-vendor-agent-design/)<br/>
+📝 [Building a Zero-Data-Retention Layer for Production LLM Agents](https://tanayshah.dev/blog/zero-data-retention-agents/)
+
+</div>
+
+---
+
 <h3><code>// tech stack</code></h3>
 
 <div align="center">
