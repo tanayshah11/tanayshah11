@@ -4,11 +4,27 @@
 
 </div>
 
-<div align="center">
+```bash
+tanay@github:~$ whoami
+> Tanay Shah
 
-<img src="assets/terminal.svg" alt="About Me" width="100%"/>
+tanay@github:~$ cat /etc/profile
+> Founding AI Engineer · New York City
+> CS @ UMD '25 · Departmental Honors · Statistics minor
+> I build things that shouldn't work, but do.
+> Currently: production agent infrastructure, sandboxed
+> Python runtimes, MCP servers, iOS apps from zero.
 
-</div>
+tanay@github:~$ whereis tanay
+> New York, NY
+
+tanay@github:~$ curl -s tanayshah.dev/links
+> https://tanayshah.dev
+> https://tanayshah.dev/hire
+> https://linkedin.com/in/tanayshah11
+> https://github.com/tanayshah11
+> tanayshah2024@gmail.com
+```
 
 ---
 
