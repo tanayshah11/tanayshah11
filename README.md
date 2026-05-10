@@ -12,6 +12,30 @@
 
 ---
 
+<h3><code>// open to hire · May 2026</code></h3>
+
+<div align="center">
+
+**[tanayshah.dev/hire →](https://tanayshah.dev/hire)**
+
+</div>
+
+**Tanay Shah** is a **Founding AI Engineer** in **New York City**, available
+for hire as of May 2026. Most recently: 14 weeks of founding-engineer reps at
+a **Y Combinator F25** AI startup — production agent infrastructure
+(LangGraph + Anthropic Claude), a hardened Python sandbox (bubblewrap +
+seccomp + AST validation) for Zero-Data-Retention compliance, durable
+event-sourced chat backends, iOS apps shipped from zero. Open to founding,
+first-engineer, and early-stage AI roles.
+
+→ Email: tanayshah2024@gmail.com  
+→ Portfolio: [tanayshah.dev](https://tanayshah.dev)  
+→ Hire page: [tanayshah.dev/hire](https://tanayshah.dev/hire)  
+→ Resume: [Tanay_Shah_Resume.pdf](https://tanayshah.dev/assets/Tanay_Shah_Resume.pdf)  
+→ LinkedIn: [linkedin.com/in/tanayshah11](https://linkedin.com/in/tanayshah11)
+
+---
+
 <h3><code>// field report</code></h3>
 
 <div align="center">
